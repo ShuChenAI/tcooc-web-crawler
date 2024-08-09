@@ -1,0 +1,3 @@
+[submodule "concords_web_rpa"]
+	path = concords_web_rpa
+	url = git@github.com:luisleo526/concords-web-rpa.git

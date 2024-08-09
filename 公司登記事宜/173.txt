@@ -1,0 +1,2 @@
+如何查詢公司已解散？
+請進入全國商工行政服務入口網(https://gcis.nat.gov.tw/mainNew/)／商工登記資料查詢／公司及分公司基本資料查詢(https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do)，鍵入查詢條件及資料，即可得知公司最新登記狀況。
